@@ -6,6 +6,6 @@ I am an undergraduate researcher in Bioinformatics Laboratory, in collaboration 
   [![My Skills](https://skillicons.dev/icons?i=pycharm,git,docker,bash,python,r)](#)
 ###
 ## Contato:
-<a href="mailto:gabrielsilveirapereira.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://https://www.linkedin.com/in/gabrieldasilveirapereira/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
-  
+ <a href = "mailto:gabrielsilveirapereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://gabrielsilveirapereira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
